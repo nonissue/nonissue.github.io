@@ -1206,7 +1206,7 @@ th {
 }
 
 .alert-bar {
-  border-style: dashed;
+  /* border-style: dashed; */
   border-width: 2px;
   margin: 5px;
 }
